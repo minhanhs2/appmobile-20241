@@ -21,3 +21,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "SimpleList"
 include(":app")
+ 
